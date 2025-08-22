@@ -19,6 +19,6 @@ if __name__ == "__main__":
     media = media(list(compras.values()))
     print("Promedio de precios por articulo es: ", media)
     
-  mediana = mediana(list(compras.values()))
+    mediana = mediana(list(compras.values())) 
     print("Mediana de precios por articulo es: ", mediana)
     
